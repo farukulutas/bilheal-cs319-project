@@ -94,9 +94,9 @@ The following Composer packages were used during the development of the web app:
 * filament/forms
 * filament/tables
 * graham-campbell/markdown
-* kiritokatklian/nova-permission
+* kiritokatklian/nova-permission (Nova directory removed for Copyright reasons)
 * laravel/jetstream
-* laravel/nova
+* laravel/nova (Nova directory removed for Copyright reasons)
 * laravel/sanctum
 * livewire/livewire
 * spatie/laravel-ignition
